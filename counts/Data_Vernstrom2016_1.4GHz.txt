@@ -1,0 +1,12 @@
+####################
+# Euclidean normalized differential source counts at 1.4 GHz from the data in Vernstrom et al. (2016).
+# col. 1 =      Log(S [Jy])
+# col. 2 =      S^2.5dN/dS[Jy^1.5/sr] (sum of all the populations)
+# col. 3 =      higher errors (+)
+# col. 4 =      lower errors (-)
+##################
+-4.66646 2.981 0.245 0.215
+-4.28464 4.404 0.303 0.300
+-3.85956 4.242 0.503 0.512
+-3.42508 5.420 1.114 1.178
+-2.89655 7.746 2.874 2.901
